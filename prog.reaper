@@ -1,0 +1,11 @@
+SHOVE "Yo";
+SHOVE " Reaper";
+COMB;
+RET;
+COMB;
+SHOVE "You're an idiot.";
+COMB;
+RET;
+COMB;
+REAP;
+HALT;
